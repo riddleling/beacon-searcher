@@ -4,8 +4,6 @@
 
 ![screenshot](imgs/screenshot.png)
 
-<br>
-
 
 ## Compile & Run
 
@@ -24,6 +22,7 @@
         2. Edit environment variable:
             - add `C:\msys64\mingw64\bin` to `Path`.
             - add `C:\msys64\mingw64\lib` to `GTK_LIB_DIR`.
+
         3. Add toolchain target, open a `PowerShell`, and run:
             ```
             PS C:\> rustup target add x86_64-pc-windows-gnu
@@ -45,8 +44,6 @@
     ```
     $ cargo run
     ```
-
-<br>
 
 
 ## License

@@ -1,4 +1,4 @@
-# iBeacon Searcher
+# Beacon Searcher
 
 ## Screenshot
 

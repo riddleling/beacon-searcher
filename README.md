@@ -14,7 +14,7 @@
         ```
     - Windows:
 
-        1. Install dev packages from `MSYS2 Shell`:
+        1. Install dev packages from `MSYS2` shell:
             ```
             $ pacman -S --needed base-devel mingw-w64-x86_64-toolchain
             $ pacman -S mingw-w64-x86_64-gtk3

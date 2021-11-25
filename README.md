@@ -8,11 +8,11 @@
 ## Compile & Run
 
 1. Install GTK 3 dev packages:
-    - Debian / Ubuntu:
+    - **Debian** / **Ubuntu**:
         ```
         $ sudo apt install libgtk-3-dev build-essential
         ```
-    - Windows:
+    - **Windows**:
 
         1. Install dev packages from `MSYS2` shell:
             ```

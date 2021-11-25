@@ -21,7 +21,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
     let shared_central = Arc::new(get_central(&manager).await);
 
     let app = Application::builder()
-        .application_id("site.riddleling.sub_win")
+        .application_id("site.riddleling.app.beacon-searcher")
         .build();
 
     app.connect_activate(move |app| {

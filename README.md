@@ -8,6 +8,11 @@
 ## Compile & Run
 
 1. Install GTK 3 dev packages:
+    - **macOS:**
+        ```
+        $ brew install gtk+3
+        $ brew install gnome-icon-theme
+        ```
     - **Debian** / **Ubuntu**:
         ```
         $ sudo apt install libgtk-3-dev build-essential
